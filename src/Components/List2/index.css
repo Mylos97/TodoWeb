@@ -19,15 +19,16 @@
     align-items: center;
     justify-content: center;
     background-color: blue;
-    border: solid 2px #d0d0d0;
-    border-radius: .2em;
-    padding: .5em .8em .5em .5em;
+    border: solid 2px rgb(10, 10, 10);
+    border-radius: .4em;
     margin-bottom: 1em;
-    font-size: 2rem;
+    font-size: 2em;
     width: 60%;
+    height: 20%;
+    padding: 2rem;
 }
   
-.characters p {
+.lists p {
     max-width: none;
     font-weight: bold;
     margin: 0;
